@@ -1,0 +1,26 @@
+#divarticle {
+float: left;
+padding: 15px;
+}
+
+
+
+#header01 {
+text-align: center;
+font-family: 'Serif';
+text-decoration-line: underline;
+text-decoration-color: gray;
+text-decoration-thickness: 5px;
+}
+
+.subjectborder { border-style: inset; border-color: gray; }
+
+.subject01 {
+font-family: 'Monospace';
+background-color: green;
+}
+
+.subject02 {
+font-family: 'Monospace';
+background-color: red;
+}
